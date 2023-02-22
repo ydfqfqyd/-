@@ -1,6 +1,6 @@
-- 👋 Hi, I’m qxqdebaba
-- 👀 I’m interested in labview
-- 🌱 I’m currently learning labview
+- 👋 Hi, I’m yundanfengqing
+- 👀 I’m interested in matlab,cpp.
+- 🌱 I’m currently learning matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
